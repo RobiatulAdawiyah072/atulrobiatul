@@ -13,7 +13,7 @@ from modulenorm.modTokenizing import tokenize
 
 
 # sentence input
-sentence = "Siang bunda benar adeknya bernama fahmi benar dok untuk imunisasi ya iya dok apakah nanti badanya panas dok bunda gak perlu kawatir nanti panasnya cuman sebentar kok bisa dikompres biar cepet reda panasnya terima kasih dok"
+sentence = "1,'kecewa aneh,tiap log diminta kode challenge sungguh merepotka berada luar negeri',1"
 
 
 
